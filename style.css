@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-family: sans-serif;
+    background-color: orange;
+    border: 5px solid green;
+    border-radius: 15px;
+    text-decoration: underline;
+    box-shadow: cornflowerblue 15px 5px 5px;
+}
+
+h1:hover {
+    color: orange;
+}
+
+h1:focus {
+    color: purple;
+}
